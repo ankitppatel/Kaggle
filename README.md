@@ -1,2 +1,2 @@
 # Kaggle
-IPython and data sets for Kaggle competitions
+IPython notebooks and data sets for Kaggle competitions
