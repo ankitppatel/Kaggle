@@ -11,7 +11,7 @@
 | Include an appendix with full technical details  | | | | |
 
 
-**Notes:**
--Great use of graphics, although a touch distracting to your final analysis. 
--The code snippet you found for the local scoring of  “log loss” is something that you can apply to all of your projects going forward. Having the ability to locally score your own model can save a lot of time instead of uploading to kaggle repeatedly.
--Did you try to combine the multiple event datas per device id into a singular condensed line as we had discussed? 
+**Notes:** <br>
+-Great use of graphics, although a touch distracting to your final analysis. <br> 
+-The code snippet you found for the local scoring of  “log loss” is something that you can apply to all of your projects going forward. Having the ability to locally score your own model can save a lot of time instead of uploading to kaggle repeatedly. <br>
+-Did you try to combine the multiple event datas per device id into a singular condensed line as we had discussed? <br>
